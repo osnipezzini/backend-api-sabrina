@@ -1,0 +1,26 @@
+[
+	{
+		"Id": 1,
+		"Username": "osni",
+		"Name": "Osni Pezzini Junior",
+		"Email": "osni@sotech.xyz",
+		"Password": "4588",
+		"Document": "063.229.759-00"
+	},
+	{
+		"Id": 2,
+		"Username": "sabrina",
+		"Name": "Sabrina Camargo Blockwel",
+		"Email": "sabrinacamargo.blo@gmail.com",
+		"Password": "12345",
+		"Document": "120.335.419-32"
+	},
+	{
+		"Id": 3,
+		"Username": "test",
+		"Name": "Marina",
+		"Email": "osmarinablockwel3433@gmail.com",
+		"Password": "123",
+		"Document": "120.335.419-32"
+	}
+]
